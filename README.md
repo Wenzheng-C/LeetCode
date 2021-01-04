@@ -1,1 +1,1 @@
-# LeetCode
+Simple Medium Diffcult
